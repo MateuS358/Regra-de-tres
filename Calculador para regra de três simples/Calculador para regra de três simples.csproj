@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D9ECCDFE-1126-435D-A1D6-F06EC90A8106}</ProjectGuid>
+    <ProjectGuid>{B81DAEF7-7BF4-44D4-8473-F61E14D62B52}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Mat2Forms</RootNamespace>
-    <AssemblyName>Mat2Forms</AssemblyName>
+    <RootNamespace>Calculador_para_regra_de_três_simples</RootNamespace>
+    <AssemblyName>Calculador para regra de três simples</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Mat2Forms.Properties
+namespace Calculador_para_regra_de_três_simples.Properties
 {
 
 

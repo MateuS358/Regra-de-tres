@@ -78,7 +78,7 @@ namespace Mat2Forms
       n1 = Convert.ToInt32(n1S);
       n2 = Convert.ToInt32(n2S);
       n3 = Convert.ToInt32(n3S);
-      if(inv) res = n1 * n2 / n3;
+      if (inv) res = n1 * n2 / n3;
       else res = n2 * n3 / n1;
       Btn_Result.Text = Convert.ToString(res);
     }
@@ -90,7 +90,7 @@ namespace Mat2Forms
 
     private void Btn_N3_Click(object sender, EventArgs e)
     {
-      if(n3B)
+      if (n3B)
       {
         n3S = "";
       }

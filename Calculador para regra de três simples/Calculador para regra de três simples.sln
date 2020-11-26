@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mat2Forms", "Mat2Forms.csproj", "{D9ECCDFE-1126-435D-A1D6-F06EC90A8106}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculador para regra de três simples", "Calculador para regra de três simples.csproj", "{B81DAEF7-7BF4-44D4-8473-F61E14D62B52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D9ECCDFE-1126-435D-A1D6-F06EC90A8106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D9ECCDFE-1126-435D-A1D6-F06EC90A8106}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D9ECCDFE-1126-435D-A1D6-F06EC90A8106}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D9ECCDFE-1126-435D-A1D6-F06EC90A8106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81DAEF7-7BF4-44D4-8473-F61E14D62B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81DAEF7-7BF4-44D4-8473-F61E14D62B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81DAEF7-7BF4-44D4-8473-F61E14D62B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81DAEF7-7BF4-44D4-8473-F61E14D62B52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AAC2DAD6-FF8B-49B6-98ED-5429D9AB2681}
+		SolutionGuid = {3657CAC5-8543-4DDE-9E56-6A980C042A24}
 	EndGlobalSection
 EndGlobal

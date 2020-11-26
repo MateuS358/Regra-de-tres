@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("Mat2Forms")]
+[assembly: AssemblyTitle("Calculador para regra de três simples")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Mat2Forms")]
+[assembly: AssemblyProduct("Calculador para regra de três simples")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("d9eccdfe-1126-435d-a1d6-f06ec90a8106")]
+[assembly: Guid("b81daef7-7bf4-44d4-8473-f61e14d62b52")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //

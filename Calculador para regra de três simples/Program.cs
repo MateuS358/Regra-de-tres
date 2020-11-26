@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Mat2Forms
+namespace Calculador_para_regra_de_três_simples
 {
   static class Program
   {
