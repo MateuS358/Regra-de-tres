@@ -1,0 +1,10 @@
+C:\Users\heena\Desktop\Scripts\Regra-de-tres\Calculador para regra de três simples\obj\Release\Calculador para regra de três simples.csprojAssemblyReference.cache
+C:\Users\heena\Desktop\Scripts\Regra-de-tres\Calculador para regra de três simples\obj\Release\Calculador_para_regra_de_três_simples.Properties.Resources.resources
+C:\Users\heena\Desktop\Scripts\Regra-de-tres\Calculador para regra de três simples\obj\Release\Calculador para regra de três simples.csproj.GenerateResource.cache
+C:\Users\heena\Desktop\Scripts\Regra-de-tres\Calculador para regra de três simples\obj\Release\Calculador para regra de três simples.csproj.CoreCompileInputs.cache
+C:\Users\heena\Desktop\Scripts\Regra-de-tres\Calculador para regra de três simples\obj\Release\Calculador_para_regra_de_três_simples.Form1.resources
+C:\Users\heena\Desktop\Scripts\Regra-de-tres\Calculador para regra de três simples\bin\Release\Calculador para regra de três simples.exe.config
+C:\Users\heena\Desktop\Scripts\Regra-de-tres\Calculador para regra de três simples\bin\Release\Calculador para regra de três simples.exe
+C:\Users\heena\Desktop\Scripts\Regra-de-tres\Calculador para regra de três simples\bin\Release\Calculador para regra de três simples.pdb
+C:\Users\heena\Desktop\Scripts\Regra-de-tres\Calculador para regra de três simples\obj\Release\Calculador para regra de três simples.exe
+C:\Users\heena\Desktop\Scripts\Regra-de-tres\Calculador para regra de três simples\obj\Release\Calculador para regra de três simples.pdb

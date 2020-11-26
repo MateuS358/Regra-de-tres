@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Mat2Forms
+namespace Calculador_para_regra_de_três_simples
 {
   public partial class Form1 : Form
   {
@@ -75,12 +75,36 @@ namespace Mat2Forms
 
     private void Btn_Result_Click(object sender, EventArgs e)
     {
-      n1 = Convert.ToInt32(n1S);
-      n2 = Convert.ToInt32(n2S);
-      n3 = Convert.ToInt32(n3S);
-      if (inv) res = n1 * n2 / n3;
-      else res = n2 * n3 / n1;
-      Btn_Result.Text = Convert.ToString(res);
+      if(n1S.Length > 0)
+      {
+        n1 = Convert.ToInt32(n1S);
+      }
+      else
+      {
+        MessageBox.Show("Número inválido");
+      }
+      if (n2S.Length > 0)
+      {
+        n2 = Convert.ToInt32(n2S);
+      }
+      else
+      {
+        MessageBox.Show("Número inválido");
+      }
+      if (n3S.Length > 0)
+      {
+        n3 = Convert.ToInt32(n3S);
+      }
+      else
+      {
+        MessageBox.Show("Número inválido");
+      }
+      if (n1 != 0 && n2 != 0 && n3 != 0)
+      {
+        if (inv) res = n1 * n2 / n3;
+        else res = n2 * n3 / n1;
+        Btn_Result.Text = Convert.ToString(res);
+      }
     }
 
     private void Btn_1_Click(object sender, EventArgs e)
@@ -90,7 +114,7 @@ namespace Mat2Forms
 
     private void Btn_N3_Click(object sender, EventArgs e)
     {
-      if (n3B)
+      if (n3B || Btn_N3.Text.Length > 0)
       {
         n3S = "";
       }
@@ -100,7 +124,7 @@ namespace Mat2Forms
 
     private void Btn_N2_Click(object sender, EventArgs e)
     {
-      if (n2B)
+      if (n2B || Btn_N2.Text.Length > 0)
       {
         n2S = "";
       }
@@ -110,12 +134,12 @@ namespace Mat2Forms
 
     private void Btn_N1_Click(object sender, EventArgs e)
     {
-      if (n1B)
+      if (n1B || Btn_N1.Text.Length > 0)
       {
         n1S = "";
       }
       n1B = true; n2B = false; n3B = false;
-      Btn_N1.Text = n2S;
+      Btn_N1.Text = n1S;
     }
 
     public Form1()

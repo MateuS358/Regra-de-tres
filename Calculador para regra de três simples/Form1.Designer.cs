@@ -1,4 +1,4 @@
-﻿namespace Mat2Forms
+﻿namespace Calculador_para_regra_de_três_simples
 {
   partial class Form1
   {
@@ -236,9 +236,9 @@
       this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
       this.label1.Location = new System.Drawing.Point(123, 11);
       this.label1.Name = "label1";
-      this.label1.Size = new System.Drawing.Size(99, 20);
+      this.label1.Size = new System.Drawing.Size(98, 20);
       this.label1.TabIndex = 10;
-      this.label1.Text = "N1:................";
+      this.label1.Text = "A1:................";
       // 
       // label2
       // 
@@ -246,9 +246,9 @@
       this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
       this.label2.Location = new System.Drawing.Point(123, 51);
       this.label2.Name = "label2";
-      this.label2.Size = new System.Drawing.Size(99, 20);
+      this.label2.Size = new System.Drawing.Size(98, 20);
       this.label2.TabIndex = 11;
-      this.label2.Text = "N2:................";
+      this.label2.Text = "A2:................";
       // 
       // label3
       // 
@@ -258,7 +258,7 @@
       this.label3.Name = "label3";
       this.label3.Size = new System.Drawing.Size(99, 20);
       this.label3.TabIndex = 12;
-      this.label3.Text = "N3:................";
+      this.label3.Text = "B1:................";
       // 
       // Btn_N1
       // 
